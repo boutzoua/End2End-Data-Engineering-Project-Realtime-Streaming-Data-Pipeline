@@ -14,7 +14,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/boutzoua/End2End-Data-Engineering-Project-Realtime-Streaming-Data-Pipeline/blob/main/assests/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
@@ -44,26 +44,3 @@ The project is designed with the following components:
 - Cassandra
 - PostgreSQL
 - Docker
-
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
-    ```bash
-    docker-compose up
-    ```
-
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
-
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
